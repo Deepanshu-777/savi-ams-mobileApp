@@ -78,7 +78,7 @@ class SettingsView extends GetView<SettingsController> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         mediumText(
-                          title: "M&P LLH",
+                          title: "SAVI AMS",
                           fontSize: 42,
                           fontFamily: "Bebas",
                           height: 0.7,

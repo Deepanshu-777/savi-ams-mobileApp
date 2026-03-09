@@ -9,6 +9,6 @@ class BarCodeScannerController extends GetxController {
     detectionSpeed: DetectionSpeed.noDuplicates,
     returnImage: true,
   );
-
+ 
   
 }

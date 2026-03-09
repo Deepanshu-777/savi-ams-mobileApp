@@ -28,7 +28,7 @@ Future<dynamic> attachmentViewer({
       title: Row(
         children: [
           largeText(
-            title: "Savi Assets",
+            title: "SAVI AMS",
             fontSize: 24,
             fontColor: AppColors.navyBlue,
           ),

@@ -45,7 +45,7 @@ class ChangePasswordView extends GetView<ChangePasswordController> {
               customSizedBox(height: 11),
               mediumText(
                 title:
-                    "Enter new password, Now track and manage all the Welding Assets with M&P LLH.",
+                    "Enter new password, Now track and manage all the Welding Assets with SAVI AMS.",
                 height: 1.5,
                 fontColor: AppColors.black,
               ),

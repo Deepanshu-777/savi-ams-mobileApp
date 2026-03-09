@@ -36,7 +36,7 @@ class LoginController extends GetxController {
   Future<void> userLogin() async {
     String? fcmToken =
         await FirebaseNotification().firebaseMessaging.getToken();
-
+    log("fcmmmmmmmmmm   ${fcmToken}");
     final response = await NetworkRequester().post(
       api: () async {
         await userLogin();
@@ -60,7 +60,8 @@ class LoginController extends GetxController {
       Storage.setPhone(res.data?.user?.phone);
       Storage.setProfilePic((res.data?.user?.profilePicture ?? ""));
 
-      if (res.data?.user?.roleId.toString() == "3" || res.data?.user?.roleId.toString() == "1") {
+      if (res.data?.user?.roleId.toString() == "3" ||
+          res.data?.user?.roleId.toString() == "1") {
         Get.offAllNamed(Routes.MAINVIEW);
         if (Get.isRegistered<HomeController>()) {
           Get.find<HomeController>().getHomeDetails();

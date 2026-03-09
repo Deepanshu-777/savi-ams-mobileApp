@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "722884734413",
-    "project_id": "mis-llh",
-    "storage_bucket": "mis-llh.firebasestorage.app"
+    "project_number": "123726403607",
+    "project_id": "savi-ams",
+    "storage_bucket": "savi-ams.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:722884734413:android:d02b4e7bd2e25952756884",
+        "mobilesdk_app_id": "1:123726403607:android:45a26e25d510d40d29e452",
         "android_client_info": {
-          "package_name": "com.mis.llh"
+          "package_name": "com.savi.ams"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyApoXqI5QEauaYrLSBAReO-t9GlijXIpA0"
+          "current_key": "AIzaSyDrFHB3GJC-x7ar7ghdTSn04xbpA9tH0mk"
         }
       ],
       "services": {

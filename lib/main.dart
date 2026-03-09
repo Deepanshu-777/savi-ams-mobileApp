@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
       initialRoute: Routes.SPLASH,
       initialBinding: SplashBinding(),
       debugShowCheckedModeBanner: false,
-      title: 'Savi Assets',
+      title: 'SAVI AMS',
       theme: ThemeData(
         scaffoldBackgroundColor: AppColors.navyBlue,
         appBarTheme: const AppBarTheme(
@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
         ),
         elevatedButtonTheme: ElevatedButtonThemeData(
           style: ElevatedButton.styleFrom(
-            backgroundColor: AppColors.lightBlue, 
+            backgroundColor: AppColors.lightBlue,
           ),
         ),
         primarySwatch: Colors.blue,
