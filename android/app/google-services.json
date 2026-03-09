@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722884734413",
+    "project_id": "mis-llh",
+    "storage_bucket": "mis-llh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722884734413:android:d02b4e7bd2e25952756884",
+        "android_client_info": {
+          "package_name": "com.mis.llh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApoXqI5QEauaYrLSBAReO-t9GlijXIpA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

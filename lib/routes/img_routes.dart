@@ -1,0 +1,69 @@
+// ignore_for_file: constant_identifier_names
+
+class ImgRoutes {
+  static const LOGO = "assets/images/png_img/logo.png";
+  static const TOTALMACHINES = "assets/images/svg_img/total_icon.svg";
+  static const ACTIVEMACHINES = "assets/images/svg_img/active_icon.svg";
+  static const INACTIVEMACHINES = "assets/images/svg_img/inactive_icon.svg";
+  static const ABANDONEDMACHINES = "assets/images/svg_img/abondened_icon.svg";
+  static const TICKETRAISED = "assets/images/svg_img/ticket_icon.svg";
+  static const TICKETRESOLVED = "assets/images/svg_img/ticket_resolved.svg";
+  static const TICKETPENDING = "assets/images/svg_img/ticket_pending.svg";
+  static const TICKETABANDONED = "assets/images/svg_img/ticket_abondened.svg";
+  static const TICKETAPPROVED = "assets/images/svg_img/ticket_approved.svg";
+  static const COMPLIANT = "assets/images/svg_img/compliant.svg";
+  static const HOME = "assets/images/svg_img/home.svg";
+  static const MACHINE = "assets/images/svg_img/machine.svg";
+  static const GRAPH = "assets/images/svg_img/graph.svg";
+  static const TICKET = "assets/images/svg_img/ticket.svg";
+  static const BARCODE = "assets/images/svg_img/bar_code.svg";
+  static const FILTER = "assets/images/svg_img/filter_icon.svg";
+  static const CONDEMNICON = "assets/images/svg_img/condemn_icon.svg";
+  static const SORT = "assets/images/svg_img/sort_icon.svg";
+  static const CROSS = "assets/images/svg_img/cross_icon.svg";
+  static const ARROWDOWN = "assets/images/svg_img/arrow_down.svg";
+  static const ARROWUP = "assets/images/svg_img/arrow_up.svg";
+  static const EDIT = "assets/images/svg_img/edit_icon.svg";
+  static const IMAGEPICKER = "assets/images/svg_img/image_picker.svg";
+  static const VIEWMORE = "assets/images/svg_img/view_icon.svg";
+  static const SWIPE = "assets/images/svg_img/swipe_icon.svg";
+  static const TICK = "assets/images/svg_img/tick.svg";
+  static const UNTICK = "assets/images/svg_img/un_tick.svg";
+  static const GREYCROSS = "assets/images/svg_img/grey_cross.svg";
+  static const REDCROSS = "assets/images/svg_img/red_cross.svg";
+  static const SCHEDULEDMAINTENANCE =
+      "assets/images/svg_img/scheduled_maintenance.svg";
+  static const ACKNOWLEDGEDICON = "assets/images/svg_img/acknowledge_icon.svg";
+  static const RESOLVEDICON = "assets/images/svg_img/resolved_icon.svg";
+  static const TICKCHECKBOX = "assets/images/svg_img/tick_checkbox.svg";
+  static const UNTICKCHECKBOX = "assets/images/svg_img/untick_checkbox.svg";
+  static const APPICON = "assets/images/svg_img/app_icon.svg";
+  static const DONEICON = "assets/images/svg_img/done_icon.svg";
+  static const NETWORKERROR = "assets/images/svg_img/network_error_icon.svg";
+  static const SERVERERROR = "assets/images/svg_img/server_error_icon.svg";
+  static const ZEROTICKETS = "assets/images/svg_img/ticket_svg_icon.svg";
+  static const ACKNOWLEDGED = "assets/images/svg_img/acknowledged.svg";
+  static const CALENDER = "assets/images/svg_img/calendar.svg";
+  static const DOWNLOAD = "assets/images/svg_img/download.svg";
+  static const REOPEN = "assets/images/svg_img/reopen.svg";
+  static const EDITMAINTENANCE = "assets/images/svg_img/edit_maintenance.svg";
+  static const MAINTENANCE = "assets/images/svg_img/maintenance.svg";
+  static const NOMACHINEFOUND = "assets/images/svg_img/no_machine_found.svg";
+  static const ENABLEDDONE = "assets/images/svg_img/enabled_one.svg";
+  static const ENABLEDTWO = "assets/images/svg_img/enabled_two.svg";
+  static const ENABLEDTHREE = "assets/images/svg_img/enabled_three.svg";
+  static const DISABLEDONE = "assets/images/svg_img/disabled_one.svg";
+  static const DISABLEDTWO = "assets/images/svg_img/disabled_two.svg";
+  static const DISABLEDTHREE = "assets/images/svg_img/disabled_three.svg";
+  static const DONE = "assets/images/svg_img/done.svg";
+  static const ADDMACHINEICON = "assets/images/svg_img/add_machine_icon.svg";
+  static const DELETE = "assets/images/svg_img/delete_icon.svg";
+  static const CANCELTICKET = "assets/images/svg_img/cancel_ticket.svg";
+  static const NOTIFICATIONIMAGE =
+      "assets/images/svg_img/notification_image.svg";
+  static const NOTIFICATIONLOGO = "assets/images/svg_img/notification.svg";
+  static const CALENDERICON = "assets/images/svg_img/calender_icon.svg";
+  static const DELETEICON = "assets/images/svg_img/delete.svg";
+  static const EDITMACHINE = "assets/images/svg_img/edit_machine.svg";
+  static const BARCODEICON = "assets/images/svg_img/bar_code_icon.svg";
+}
