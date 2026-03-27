@@ -1,6 +1,6 @@
 class Urls {
-  static const BASEURL = "https://savi-ams.fictivebox.tech/api/";
-  // static const BASEURL = "https://savi-ams.unnatierp.com/api/";
+  // static const BASEURL = "https://savi-ams.fictivebox.tech/api/";
+  static const BASEURL = "https://savi-ams.unnatierp.com/api/";
 
   static const PLAYSTOREURL =
       "https://play.google.com/store/apps/details?id=com.misju.com";
