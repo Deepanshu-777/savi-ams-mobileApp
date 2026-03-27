@@ -39,7 +39,7 @@ class SignUpView extends GetView<SignUpController> {
               customSizedBox(height: 11),
               mediumText(
                 title:
-                    "Fill in the the details and get started with “M&P LLH” Asset Management Tool",
+                    "Fill in the the details and get started with “SAVI AMS” Asset Management Tool",
                 height: 1.5,
                 fontColor: AppColors.black,
               )

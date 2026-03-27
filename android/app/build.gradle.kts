@@ -20,7 +20,7 @@
     }
 
     android {
-        namespace = "com.mis.llh"
+        namespace = "com.savi.ams"
         compileSdk = 35
         ndkVersion = flutter.ndkVersion
 
@@ -36,7 +36,7 @@
 
         defaultConfig {
             // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-            applicationId = "com.mis.llh"
+            applicationId = "com.savi.ams"
             // You can update the following values to match your application needs.
             // For more information, see: https://flutter.dev/to/review-gradle-config.
             minSdk = flutter.minSdkVersion

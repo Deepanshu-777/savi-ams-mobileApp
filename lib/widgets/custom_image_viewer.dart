@@ -35,7 +35,7 @@ Widget customImageViewer({
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       mediumText(
-                        title: "Savi Assets",
+                        title: "SAVI AMS",
                         fontSize: 42,
                         fontFamily: "Bebas",
                         height: 0.7,

@@ -46,7 +46,7 @@ class LoginView extends GetView<LoginController> {
               customSizedBox(height: 11),
               mediumText(
                 title:
-                    "Enter your details to login. Now track and manage all the Assets with “M&P LLH”.",
+                    "Enter your details to login. Now track and manage all the Assets with “SAVI AMS”.",
                 height: 1.5,
                 fontColor: AppColors.black,
               ),
